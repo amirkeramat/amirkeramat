@@ -1,4 +1,8 @@
 <div id="header" align="center">
+    <h1>
+  hey there Im Amir Keramat 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
   <div id="badges">
   <a href="your-linkedin-URL">
@@ -12,10 +16,7 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=amirkeramat&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
   <div align='center'>
   <img src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" width='600px' height="300px"/>
 </div>
