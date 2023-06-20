@@ -38,8 +38,11 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,mongodb,mysql,nextjs,react,tailwind)](https://skills.thijs.gg)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,mysql,mongodb" />
+  </a>
+</p>
 
 ---
 
