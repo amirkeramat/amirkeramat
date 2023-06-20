@@ -62,4 +62,3 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-:writing_hand: Blog Posts :
