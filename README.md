@@ -36,7 +36,7 @@
 :man_technologist:About Me :
 
 I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-- :telescope: I’m working as a Software Engineer and contributing to frontend  for building the client side of web applications with moden framworks like Nextjs,Reduxjs
+- :telescope: I’m working as a Software Engineer and contributing to frontend  for building the client side of web applications with moden framworks like ReactJs,NextJs
 
 - :seedling: Exploring Technical Content Writing.
 
