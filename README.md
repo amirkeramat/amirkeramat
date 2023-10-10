@@ -26,12 +26,8 @@
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 
 
-  <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=amirkeramat&style=flat-square&color=blue"  alt=""/>
-</div>
-<div align="center">
-    ![](https://komarev.com/ghpvc/?username=amirkeramatusername&label=PROFILE+VIEWS
-</div>
+  <div align=center">
+    <img src="https://komarev.com/ghpvc/?username=amirkeramat&label=PROFILE+VIEWS" />
 </div>
 
 ---
